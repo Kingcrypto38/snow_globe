@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 ruby "2.3.1"
-gem "rails", "~> 5.0.0"
+gem "rails", "~> 7.1.5", ">= 7.1.5.2"
 
 gem "awesome_print"
 gem "babel-transpiler"
